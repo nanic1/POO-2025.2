@@ -1,5 +1,5 @@
 public class Circulo {
-    private float PI = 3,14159;
+    private double PI = 3.14159;
     private int centro;
     private float raio;
 
